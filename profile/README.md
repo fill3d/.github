@@ -8,6 +8,6 @@ Generative fill in 3D. In three steps:
 2. Draw a rectangle and describe an object you want.
 3. Generate an ultra-realistic image with 3D generative fill.
 
-### [Try it out here](https://fill3d.ai/fill).
+### [Try it out here](https://fill3d.ai/fill)
 
-Fill 3D is built on [Function](https://github.com/fxnai).
+Fill 3D is built with [Function](https://github.com/fxnai).

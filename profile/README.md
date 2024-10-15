@@ -11,5 +11,3 @@ Generative fill in 3D. In three steps:
 3. Generate an ultra-realistic image with 3D generative fill.
 
 ### [Try it out here](https://fill3d.ai)
-
-Fill 3D is built with [Function](https://github.com/fxnai).
